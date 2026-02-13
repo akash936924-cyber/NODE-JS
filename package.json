@@ -1,11 +1,19 @@
 {
-  "name": "node-js",
+  "name": "js",
   "version": "1.0.0",
   "description": "this is my node js learing file ",
   "keywords": [
     "node",
     "js"
   ],
+  "homepage": "https://github.com/akash936924-cyber/NODE-JS#readme",
+  "bugs": {
+    "url": "https://github.com/akash936924-cyber/NODE-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash936924-cyber/NODE-JS.git"
+  },
   "license": "ISC",
   "author": "aakash singh",
   "type": "commonjs",
